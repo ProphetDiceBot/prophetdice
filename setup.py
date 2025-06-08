@@ -24,6 +24,12 @@ setup(
         'crewai',
         'pywebio',
         'pywebio-battery',
+        'customtkinter',
+        'matplotlib',
+        'neat-python',
+        'pymongo',
+        'tenacity',
+        'aiohttp',
 
     ],
     author='Prophet Dice Bot',
