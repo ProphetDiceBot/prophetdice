@@ -20,7 +20,7 @@ setup(
         'requests',
         'fastapi',
         'uvicorn',
-        'pyautgui',
+        'pyautogui',
         'crewai',
         'pywebio',
         'pywebio-battery',
